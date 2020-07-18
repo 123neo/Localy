@@ -1,19 +1,10 @@
 # [Localy]
 
-## Versions
-
-[<img src="https://i.ibb.co/fNpKjbn/Whats-App-Image-2020-07-17-at-23-33-49-1.jpg" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-kit)[<img src="https://i.ibb.co/fNpKjbn/Whats-App-Image-2020-07-17-at-23-33-49-1.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-now-ui-design-system)[<img src="https://i.ibb.co/5Wj5z9c/Whats-App-Image-2020-07-17-at-23-33-49-2.jpg" width="60" height="60" />](https://www.creative-tim.com/product/now-ui-design-system-react)
-
 ## Demo
 
 | Home Screen                                                                                                                                  | Profile Screen                                                                                                                                  | Elements Screen                                                                                                                                  | Register Screen                                                                                                                                |
 | -------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Home Screen](https://i.ibb.co/fNpKjbn/Whats-App-Image-2020-07-17-at-23-33-49-1.jpg)](https://demos.creative-tim.com/now-ui-react-native/) | [![Profile Screen](https://i.ibb.co/fNpKjbn/Whats-App-Image-2020-07-17-at-23-33-49-1.jpg)](https://demos.creative-tim.com/now-ui-react-native/) | [![Elements Screen](https://i.ibb.co/5Wj5z9c/Whats-App-Image-2020-07-17-at-23-33-49-2.jpg)](https://demos.creative-tim.com/now-ui-react-native/) | [![Register Screen](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg)](https://demos.creative-tim.com/now-ui-react-native/) |
-
-- [Start page](https://demos.creative-tim.com/now-ui-react-native)
-- [How to install our free demo](https://demos.creative-tim.com/now-ui-react-native/docs/#/install)
-
-[View more](https://demos.creative-tim.com/now-ui-react-native)
 
 ## File Structure
 
