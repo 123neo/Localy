@@ -1,5 +1,9 @@
 # [Localy]
 
+## Mockup Screen
+
+[(https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg)](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg) |
+
 ## Demo
 
 | Home Screen                                                                                                                                                    | Register Screen                                                                                                                                                   | Elements Screen                                                                                                                                                    | Mockup Screen                                                                                                                                                  |
