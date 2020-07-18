@@ -1,6 +1,6 @@
 # [Now UI React Native](https://creativetimofficial.github.io/now-ui-react-native/docs/#) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=now-ui%20React%20Native,%20a%20cool%20NowUI%20React%20Native%20App%20Template%20%E2%9D%A4%EF%B8%8F%20https%3A//bit.ly/2KAj86H%20%23reactnative%20%23NowUI%20%23designsystem%20%23developers%20via%20%40CreativeTim)
 
-![Product Gif](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/now-ui-react-native/opt_nurn_thumbnail.jpg)
+![Product Mockup](https://i.ibb.co/27D2K6V/mock.jpg)
 
 Now UI React Native is a fully coded app template built over [Galio.io](https://galio.io/?ref=creativetim), [React Native](https://facebook.github.io/react-native/?ref=creativetim) and [Expo](https://expo.io/?ref=creativetim) to allow you to create powerful and beautiful e-commerce mobile applications. We have redesigned all the usual components in Galio to make it look like Now UI's KIT, minimalistic and easy to use.
 
@@ -25,20 +25,6 @@ If you want to get inspiration or just show something directly to your clients, 
 View [all screens here](https://demos.creative-tim.com/now-ui-react-native/index.html#screens).
 
 Let us know your thoughts below. And good luck with development!
-
-## Table of Contents
-
-- [Versions](#versions)
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
-- [File Structure](#file-structure)
-- [OS Support](#os-support)
-- [Resources](#resources)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions)
-- [Licensing](#licensing)
-- [Useful Links](#useful-links)
 
 ## Versions
 
