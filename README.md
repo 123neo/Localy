@@ -2,7 +2,7 @@
 
 ## Mockup Screen
 
-[![Home Screen](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg)](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg) |
+[![Home Screen](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg)](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg)
 
 ## Company & Business Description
 
@@ -16,7 +16,6 @@ Localy provides a full-fledged marketplace for all the functions that a person s
 * Jobs 
 * Training 
 * Community & Activity
-
 
 ## Demo
 
