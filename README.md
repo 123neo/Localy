@@ -4,6 +4,20 @@
 
 [![Home Screen](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg)](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg) |
 
+## Company & Business Description
+
+Mission
+To facilitate the self-sustaining market ecosystem 
+
+
+## Company Overview
+Localy provides a full-fledged marketplace for all the functions that a person seeks from the market
+Shop 
+Jobs 
+Training 
+Community & Activity
+
+
 ## Demo
 
 | Home Screen                                                                                                                                                    | Register Screen                                                                                                                                                   | Elements Screen                                                                                                                                                    | Mockup Screen                                                                                                                                                  |
