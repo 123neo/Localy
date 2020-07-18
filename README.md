@@ -12,10 +12,10 @@ To facilitate the self-sustaining market ecosystem
 
 ## Company Overview
 Localy provides a full-fledged marketplace for all the functions that a person seeks from the market
-Shop 
-Jobs 
-Training 
-Community & Activity
+* Shop 
+* Jobs 
+* Training 
+* Community & Activity
 
 
 ## Demo
@@ -88,7 +88,7 @@ Localy/
 
 ## Installation
 ```
-yarn install]
+yarn install
 ```
 ```
 yarn start
