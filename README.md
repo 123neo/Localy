@@ -87,7 +87,9 @@ Localy/
 ```
 
 ## Installation
-
-yarn install
-
+```
+yarn install]
+```
+```
 yarn start
+```
