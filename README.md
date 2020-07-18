@@ -2,7 +2,7 @@
 
 ## Mockup Screen
 
-[![Home Screen](https://i.ibb.co/fNpKjbn/Whats-App-Image-2020-07-17-at-23-33-49-1.jpg)](https://i.ibb.co/fNpKjbn/Whats-App-Image-2020-07-17-at-23-33-49-1.jpg) |
+[![Home Screen](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg)](https://i.ibb.co/7XRKk29/Whats-App-Image-2020-07-18-at-05-07-22.jpg) |
 
 ## Demo
 
